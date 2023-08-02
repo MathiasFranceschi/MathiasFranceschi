@@ -1,6 +1,7 @@
-## **Hi !**
+# **Hello, nice to meet you!**
 
-I'm a junior web developper just looking for learning new things, in the big world of the programmation.
+I'm a junior web developer in formation with O'clock a marvelous school in total remote learning,
+I love to learn new things!
 
 Working with :
 
@@ -9,4 +10,5 @@ Working with :
  - PostgreSQL
  - HTML/CSS
  - soon more...
- 
+
+ ## Passionate about 🏍️ 👟 🚲 🚵‍♂️ 🏋️‍♂️ 📖
