@@ -8,6 +8,8 @@ Working with :
  - Javascript
  - Nodejs express
  - PostgreSQL
+ - Mongodb
+ - Redis
  - HTML/CSS
  - soon more...
 
